@@ -1,0 +1,7 @@
+Quantidades de Vendas por cana
+
+Canal                    QtVendas
+1 - Representante             5476
+2 - Website                   2219
+3 - App movel Android         4139
+4 - App movel Iphone           816
